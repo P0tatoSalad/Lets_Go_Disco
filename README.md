@@ -6,7 +6,11 @@ Kiosk mode doesn't have a URL bar, but GitHub ReadMe text lets you redirect with
 Assorted links:
 
 https://skrunge.net
+
 https://skrunge.net/os
+
+https://oldnet.skrunge.net/pages/xmj-archive
+
 
 https://web.weatherwise.app
 
